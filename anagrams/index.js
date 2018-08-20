@@ -19,6 +19,7 @@ function cleanString(str) {
 module.exports = anagrams;
 
 
+//Test
 
 // Solution 1
 
