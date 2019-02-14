@@ -1,0 +1,2154 @@
+[
+  {
+    "ID": 1,
+    "School": "Adelphi University"
+  },
+  {
+    "ID": 2,
+    "School": "Agnes Scott College"
+  },
+  {
+    "ID": 3,
+    "School": "Alabama A&M"
+  },
+  {
+    "ID": 4,
+    "School": "Allegheny College"
+  },
+  {
+    "ID": 5,
+    "School": "American International College"
+  },
+  {
+    "ID": 6,
+    "School": "American University"
+  },
+  {
+    "ID": 7,
+    "School": "Amherst College"
+  },
+  {
+    "ID": 8,
+    "School": "Andrews University"
+  },
+  {
+    "ID": 9,
+    "School": "Appalachian State University"
+  },
+  {
+    "ID": 10,
+    "School": "Arizona State University - Tempe"
+  },
+  {
+    "ID": 11,
+    "School": "Art Center College of Design"
+  },
+  {
+    "ID": 12,
+    "School": "Ashland University"
+  },
+  {
+    "ID": 13,
+    "School": "Auburn University"
+  },
+  {
+    "ID": 14,
+    "School": "Augusta University"
+  },
+  {
+    "ID": 15,
+    "School": "Augustana College"
+  },
+  {
+    "ID": 16,
+    "School": "Augustana University"
+  },
+  {
+    "ID": 17,
+    "School": "Austin College"
+  },
+  {
+    "ID": 18,
+    "School": "Azusa Pacific University"
+  },
+  {
+    "ID": 19,
+    "School": "Ball State University"
+  },
+  {
+    "ID": 20,
+    "School": "Bard College"
+  },
+  {
+    "ID": 21,
+    "School": "Barnard College"
+  },
+  {
+    "ID": 22,
+    "School": "Barry University"
+  },
+  {
+    "ID": 23,
+    "School": "Bates College"
+  },
+  {
+    "ID": 24,
+    "School": "Baylor University"
+  },
+  {
+    "ID": 25,
+    "School": "Bellarmine University"
+  },
+  {
+    "ID": 26,
+    "School": "Belmont Abbey College"
+  },
+  {
+    "ID": 27,
+    "School": "Belmont University"
+  },
+  {
+    "ID": 28,
+    "School": "Beloit College"
+  },
+  {
+    "ID": 58,
+    "School": "Carleton College"
+  },
+  {
+    "ID": 29,
+    "School": "Benedictine University"
+  },
+  {
+    "ID": 30,
+    "School": "Bennett College"
+  },
+  {
+    "ID": 31,
+    "School": "Bennington College"
+  },
+  {
+    "ID": 32,
+    "School": "Bentley University"
+  },
+  {
+    "ID": 33,
+    "School": "Berry College"
+  },
+  {
+    "ID": 34,
+    "School": "Biola University"
+  },
+  {
+    "ID": 35,
+    "School": "Blue Mountain College"
+  },
+  {
+    "ID": 36,
+    "School": "Boise State University"
+  },
+  {
+    "ID": 37,
+    "School": "Boston College"
+  },
+  {
+    "ID": 38,
+    "School": "Boston University"
+  },
+  {
+    "ID": 39,
+    "School": "Bowdoin College"
+  },
+  {
+    "ID": 40,
+    "School": "Bowling Green State University"
+  },
+  {
+    "ID": 41,
+    "School": "Bradley University"
+  },
+  {
+    "ID": 42,
+    "School": "Brandeis University"
+  },
+  {
+    "ID": 43,
+    "School": "Brigham Young University - Provo"
+  },
+  {
+    "ID": 44,
+    "School": "Brown University"
+  },
+  {
+    "ID": 45,
+    "School": "Bryant University"
+  },
+  {
+    "ID": 46,
+    "School": "Bryn Mawr College"
+  },
+  {
+    "ID": 47,
+    "School": "Bucknell University"
+  },
+  {
+    "ID": 48,
+    "School": "Butler University"
+  },
+  {
+    "ID": 49,
+    "School": "CUNY - Baruch College"
+  },
+  {
+    "ID": 50,
+    "School": "California Institute of Technology"
+  },
+  {
+    "ID": 51,
+    "School": "California Institute of the Arts"
+  },
+  {
+    "ID": 52,
+    "School": "California Polytechnic State University - San Luis Obispo"
+  },
+  {
+    "ID": 53,
+    "School": "California State Polytechnic University - Pomona"
+  },
+  {
+    "ID": 54,
+    "School": "California State University - Fresno"
+  },
+  {
+    "ID": 55,
+    "School": "California State University - Fullerton"
+  },
+  {
+    "ID": 56,
+    "School": "Calvin College"
+  },
+  {
+    "ID": 57,
+    "School": "Cardinal Stritch University"
+  },
+  {
+    "ID": 59,
+    "School": "Carnegie Mellon University"
+  },
+  {
+    "ID": 60,
+    "School": "Carroll College"
+  },
+  {
+    "ID": 61,
+    "School": "Case Western Reserve University"
+  },
+  {
+    "ID": 62,
+    "School": "Catawba College"
+  },
+  {
+    "ID": 63,
+    "School": "Catholic University of America"
+  },
+  {
+    "ID": 64,
+    "School": "Cazenovia College"
+  },
+  {
+    "ID": 65,
+    "School": "Cedar Crest College"
+  },
+  {
+    "ID": 66,
+    "School": "Central Michigan University"
+  },
+  {
+    "ID": 67,
+    "School": "Centre College"
+  },
+  {
+    "ID": 68,
+    "School": "Chapman University"
+  },
+  {
+    "ID": 69,
+    "School": "City College of New York"
+  },
+  {
+    "ID": 70,
+    "School": "Claflin University"
+  },
+  {
+    "ID": 71,
+    "School": "Claremont McKenna College"
+  },
+  {
+    "ID": 72,
+    "School": "Clark Atlanta University"
+  },
+  {
+    "ID": 73,
+    "School": "Clark University"
+  },
+  {
+    "ID": 74,
+    "School": "Clarkson University"
+  },
+  {
+    "ID": 75,
+    "School": "Clemson University"
+  },
+  {
+    "ID": 76,
+    "School": "Cleveland State University"
+  },
+  {
+    "ID": 77,
+    "School": "Coe College"
+  },
+  {
+    "ID": 78,
+    "School": "Coker College"
+  },
+  {
+    "ID": 79,
+    "School": "Colby College"
+  },
+  {
+    "ID": 80,
+    "School": "Colgate University"
+  },
+  {
+    "ID": 81,
+    "School": "College of Charleston"
+  },
+  {
+    "ID": 82,
+    "School": "College of New Jersey"
+  },
+  {
+    "ID": 83,
+    "School": "College of St. Benedict"
+  },
+  {
+    "ID": 84,
+    "School": "College of William & Mary"
+  },
+  {
+    "ID": 85,
+    "School": "College of Wooster"
+  },
+  {
+    "ID": 86,
+    "School": "College of the Atlantic"
+  },
+  {
+    "ID": 87,
+    "School": "College of the Holy Cross"
+  },
+  {
+    "ID": 117,
+    "School": "Edgewood College"
+  },
+  {
+    "ID": 88,
+    "School": "College of the Ozarks"
+  },
+  {
+    "ID": 89,
+    "School": "Colorado College"
+  },
+  {
+    "ID": 90,
+    "School": "Colorado School of Mines"
+  },
+  {
+    "ID": 91,
+    "School": "Colorado State University"
+  },
+  {
+    "ID": 92,
+    "School": "Columbia University"
+  },
+  {
+    "ID": 93,
+    "School": "Concordia College - Moorhead"
+  },
+  {
+    "ID": 94,
+    "School": "Connecticut College"
+  },
+  {
+    "ID": 95,
+    "School": "Cooper Union"
+  },
+  {
+    "ID": 96,
+    "School": "Cornell College"
+  },
+  {
+    "ID": 97,
+    "School": "Cornell University"
+  },
+  {
+    "ID": 98,
+    "School": "Creighton University"
+  },
+  {
+    "ID": 99,
+    "School": "Dallas Baptist University"
+  },
+  {
+    "ID": 100,
+    "School": "Dartmouth College"
+  },
+  {
+    "ID": 101,
+    "School": "Davidson College"
+  },
+  {
+    "ID": 102,
+    "School": "DePaul University"
+  },
+  {
+    "ID": 103,
+    "School": "DePauw University"
+  },
+  {
+    "ID": 104,
+    "School": "Denison University"
+  },
+  {
+    "ID": 105,
+    "School": "Dickinson College"
+  },
+  {
+    "ID": 106,
+    "School": "Dillard University"
+  },
+  {
+    "ID": 107,
+    "School": "Dordt College"
+  },
+  {
+    "ID": 108,
+    "School": "Drake University"
+  },
+  {
+    "ID": 109,
+    "School": "Drew University"
+  },
+  {
+    "ID": 110,
+    "School": "Drexel University"
+  },
+  {
+    "ID": 111,
+    "School": "Duke University"
+  },
+  {
+    "ID": 112,
+    "School": "Duquesne University"
+  },
+  {
+    "ID": 113,
+    "School": "Earlham College"
+  },
+  {
+    "ID": 114,
+    "School": "East Carolina University"
+  },
+  {
+    "ID": 115,
+    "School": "East Tennessee State University"
+  },
+  {
+    "ID": 116,
+    "School": "Eastern Michigan University"
+  },
+  {
+    "ID": 118,
+    "School": "Elizabethtown College"
+  },
+  {
+    "ID": 119,
+    "School": "Elmhurst College"
+  },
+  {
+    "ID": 120,
+    "School": "Elon University"
+  },
+  {
+    "ID": 121,
+    "School": "Embry-Riddle Aeronautical University"
+  },
+  {
+    "ID": 122,
+    "School": "Emerson College"
+  },
+  {
+    "ID": 123,
+    "School": "Emory University"
+  },
+  {
+    "ID": 124,
+    "School": "Fairfield University"
+  },
+  {
+    "ID": 125,
+    "School": "Fayetteville State University"
+  },
+  {
+    "ID": 126,
+    "School": "Fisk University"
+  },
+  {
+    "ID": 127,
+    "School": "Flagler College"
+  },
+  {
+    "ID": 128,
+    "School": "Florida A&M University"
+  },
+  {
+    "ID": 129,
+    "School": "Florida Atlantic University"
+  },
+  {
+    "ID": 130,
+    "School": "Florida Institute of Technology"
+  },
+  {
+    "ID": 131,
+    "School": "Florida International University"
+  },
+  {
+    "ID": 132,
+    "School": "Florida State University"
+  },
+  {
+    "ID": 133,
+    "School": "Fordham University"
+  },
+  {
+    "ID": 134,
+    "School": "Franklin W. Olin College of Engineering"
+  },
+  {
+    "ID": 135,
+    "School": "Franklin and Marshall College"
+  },
+  {
+    "ID": 136,
+    "School": "Furman University"
+  },
+  {
+    "ID": 137,
+    "School": "Gallaudet University"
+  },
+  {
+    "ID": 138,
+    "School": "Gardner-Webb University"
+  },
+  {
+    "ID": 139,
+    "School": "George Mason University"
+  },
+  {
+    "ID": 140,
+    "School": "George Washington University"
+  },
+  {
+    "ID": 141,
+    "School": "Georgetown University"
+  },
+  {
+    "ID": 142,
+    "School": "Georgia Institute of Technology"
+  },
+  {
+    "ID": 143,
+    "School": "Georgia Southern University"
+  },
+  {
+    "ID": 144,
+    "School": "Georgia State University"
+  },
+  {
+    "ID": 145,
+    "School": "Gettysburg College"
+  },
+  {
+    "ID": 146,
+    "School": "Gonzaga University"
+  },
+  {
+    "ID": 147,
+    "School": "Goshen College"
+  },
+  {
+    "ID": 148,
+    "School": "Goucher College"
+  },
+  {
+    "ID": 149,
+    "School": "Grand Canyon University"
+  },
+  {
+    "ID": 150,
+    "School": "Grinnell College"
+  },
+  {
+    "ID": 151,
+    "School": "Gustavus Adolphus College"
+  },
+  {
+    "ID": 152,
+    "School": "Hamilton College"
+  },
+  {
+    "ID": 153,
+    "School": "Hampden-Sydney College"
+  },
+  {
+    "ID": 154,
+    "School": "Hampton University"
+  },
+  {
+    "ID": 155,
+    "School": "Harvard University"
+  },
+  {
+    "ID": 156,
+    "School": "Harvey Mudd College"
+  },
+  {
+    "ID": 157,
+    "School": "Haverford College"
+  },
+  {
+    "ID": 159,
+    "School": "Hendrix College"
+  },
+  {
+    "ID": 160,
+    "School": "High Point University"
+  },
+  {
+    "ID": 161,
+    "School": "Hillsdale College"
+  },
+  {
+    "ID": 162,
+    "School": "Hobart and William Smith Colleges"
+  },
+  {
+    "ID": 163,
+    "School": "Hofstra University"
+  },
+  {
+    "ID": 164,
+    "School": "Hollins University"
+  },
+  {
+    "ID": 165,
+    "School": "Hope College"
+  },
+  {
+    "ID": 166,
+    "School": "Howard Payne University"
+  },
+  {
+    "ID": 167,
+    "School": "Howard University"
+  },
+  {
+    "ID": 168,
+    "School": "Huntingdon College"
+  },
+  {
+    "ID": 169,
+    "School": "Illinois Institute of Technology"
+  },
+  {
+    "ID": 170,
+    "School": "Illinois State University"
+  },
+  {
+    "ID": 171,
+    "School": "Illinois Wesleyan University"
+  },
+  {
+    "ID": 172,
+    "School": "Immaculata University"
+  },
+  {
+    "ID": 173,
+    "School": "Indiana State University"
+  },
+  {
+    "ID": 174,
+    "School": "Indiana University - Bloomington"
+  },
+  {
+    "ID": 175,
+    "School": "Indiana University of Pennsylvania"
+  },
+  {
+    "ID": 176,
+    "School": "Indiana University-Purdue University - Indianapolis"
+  },
+  {
+    "ID": 177,
+    "School": "Iowa State University"
+  },
+  {
+    "ID": 178,
+    "School": "Ithaca College"
+  },
+  {
+    "ID": 179,
+    "School": "Jackson State University"
+  },
+  {
+    "ID": 180,
+    "School": "James Madison University"
+  },
+  {
+    "ID": 181,
+    "School": "John Carroll University"
+  },
+  {
+    "ID": 182,
+    "School": "Johns Hopkins University"
+  },
+  {
+    "ID": 183,
+    "School": "Juniata College"
+  },
+  {
+    "ID": 184,
+    "School": "Kalamazoo College"
+  },
+  {
+    "ID": 185,
+    "School": "Kansas State University"
+  },
+  {
+    "ID": 186,
+    "School": "Kennesaw State University"
+  },
+  {
+    "ID": 187,
+    "School": "Kent State University"
+  },
+  {
+    "ID": 188,
+    "School": "Kenyon College"
+  },
+  {
+    "ID": 189,
+    "School": "Kettering University"
+  },
+  {
+    "ID": 190,
+    "School": "Knox College"
+  },
+  {
+    "ID": 191,
+    "School": "Lafayette College"
+  },
+  {
+    "ID": 192,
+    "School": "Lake Forest College"
+  },
+  {
+    "ID": 193,
+    "School": "Lamar University"
+  },
+  {
+    "ID": 194,
+    "School": "Lawrence University"
+  },
+  {
+    "ID": 195,
+    "School": "Le Moyne College"
+  },
+  {
+    "ID": 196,
+    "School": "Lehigh University"
+  },
+  {
+    "ID": 197,
+    "School": "Lesley University"
+  },
+  {
+    "ID": 198,
+    "School": "Lewis & Clark College"
+  },
+  {
+    "ID": 199,
+    "School": "Liberty University"
+  },
+  {
+    "ID": 200,
+    "School": "Lincoln University"
+  },
+  {
+    "ID": 201,
+    "School": "Lindenwood University"
+  },
+  {
+    "ID": 202,
+    "School": "Lipscomb University"
+  },
+  {
+    "ID": 203,
+    "School": "Louisiana State University - Baton Rouge"
+  },
+  {
+    "ID": 204,
+    "School": "Louisiana Tech University"
+  },
+  {
+    "ID": 205,
+    "School": "Loyola Marymount University"
+  },
+  {
+    "ID": 206,
+    "School": "Loyola University Chicago"
+  },
+  {
+    "ID": 207,
+    "School": "Loyola University Maryland"
+  },
+  {
+    "ID": 208,
+    "School": "Loyola University New Orleans"
+  },
+  {
+    "ID": 209,
+    "School": "Luther College"
+  },
+  {
+    "ID": 210,
+    "School": "Macalester College"
+  },
+  {
+    "ID": 211,
+    "School": "Maine Maritime Academy"
+  },
+  {
+    "ID": 212,
+    "School": "Manhattan College"
+  },
+  {
+    "ID": 213,
+    "School": "Marietta College"
+  },
+  {
+    "ID": 214,
+    "School": "Marist College"
+  },
+  {
+    "ID": 215,
+    "School": "Marquette University"
+  },
+  {
+    "ID": 216,
+    "School": "Maryville University of St. Louis"
+  },
+  {
+    "ID": 217,
+    "School": "Massachusetts Institute of Technology"
+  },
+  {
+    "ID": 218,
+    "School": "Massachusetts Maritime Academy"
+  },
+  {
+    "ID": 219,
+    "School": "Mercer University"
+  },
+  {
+    "ID": 220,
+    "School": "Messiah College"
+  },
+  {
+    "ID": 221,
+    "School": "Miami University - Oxford"
+  },
+  {
+    "ID": 222,
+    "School": "Michigan State University"
+  },
+  {
+    "ID": 223,
+    "School": "Michigan Technological University"
+  },
+  {
+    "ID": 224,
+    "School": "Middle Tennessee State University"
+  },
+  {
+    "ID": 225,
+    "School": "Middlebury College"
+  },
+  {
+    "ID": 226,
+    "School": "Mills College"
+  },
+  {
+    "ID": 227,
+    "School": "Millsaps College"
+  },
+  {
+    "ID": 228,
+    "School": "Milwaukee School of Engineering"
+  },
+  {
+    "ID": 229,
+    "School": "Mississippi State University"
+  },
+  {
+    "ID": 230,
+    "School": "Missouri University of Science & Technology"
+  },
+  {
+    "ID": 231,
+    "School": "Montana State University"
+  },
+  {
+    "ID": 232,
+    "School": "Montana Tech of the University of Montana"
+  },
+  {
+    "ID": 233,
+    "School": "Montclair State University"
+  },
+  {
+    "ID": 234,
+    "School": "Morehouse College"
+  },
+  {
+    "ID": 235,
+    "School": "Morgan State University"
+  },
+  {
+    "ID": 236,
+    "School": "Mount Holyoke College"
+  },
+  {
+    "ID": 237,
+    "School": "Muhlenberg College"
+  },
+  {
+    "ID": 238,
+    "School": "National Louis University"
+  },
+  {
+    "ID": 239,
+    "School": "New College of Florida"
+  },
+  {
+    "ID": 240,
+    "School": "New Jersey Institute of Technology"
+  },
+  {
+    "ID": 241,
+    "School": "New Mexico State University"
+  },
+  {
+    "ID": 242,
+    "School": "New School"
+  },
+  {
+    "ID": 243,
+    "School": "New York University"
+  },
+  {
+    "ID": 244,
+    "School": "North Carolina A&T State University"
+  },
+  {
+    "ID": 245,
+    "School": "North Carolina Central University"
+  },
+  {
+    "ID": 246,
+    "School": "North Carolina State University - Raleigh"
+  },
+  {
+    "ID": 247,
+    "School": "North Dakota State University"
+  },
+  {
+    "ID": 248,
+    "School": "Northcentral University"
+  },
+  {
+    "ID": 249,
+    "School": "Northeastern University"
+  },
+  {
+    "ID": 250,
+    "School": "Northern Arizona University"
+  },
+  {
+    "ID": 251,
+    "School": "Northern Illinois University"
+  },
+  {
+    "ID": 252,
+    "School": "Northwestern College"
+  },
+  {
+    "ID": 253,
+    "School": "Northwestern University"
+  },
+  {
+    "ID": 254,
+    "School": "Nova Southeastern University"
+  },
+  {
+    "ID": 255,
+    "School": "Oakland University"
+  },
+  {
+    "ID": 256,
+    "School": "Oberlin College"
+  },
+  {
+    "ID": 257,
+    "School": "Occidental College"
+  },
+  {
+    "ID": 258,
+    "School": "Ohio Northern University"
+  },
+  {
+    "ID": 259,
+    "School": "Ohio State University"
+  },
+  {
+    "ID": 260,
+    "School": "Ohio University"
+  },
+  {
+    "ID": 261,
+    "School": "Ohio Wesleyan University"
+  },
+  {
+    "ID": 262,
+    "School": "Oklahoma Baptist University"
+  },
+  {
+    "ID": 263,
+    "School": "Oklahoma State University"
+  },
+  {
+    "ID": 264,
+    "School": "Old Dominion University"
+  },
+  {
+    "ID": 265,
+    "School": "Oregon Institute of Technology"
+  },
+  {
+    "ID": 266,
+    "School": "Oregon State University"
+  },
+  {
+    "ID": 267,
+    "School": "Pace University"
+  },
+  {
+    "ID": 268,
+    "School": "Pennsylvania State University - University Park"
+  },
+  {
+    "ID": 269,
+    "School": "Pepperdine University"
+  },
+  {
+    "ID": 270,
+    "School": "Pitzer College"
+  },
+  {
+    "ID": 271,
+    "School": "Pomona College"
+  },
+  {
+    "ID": 272,
+    "School": "Portland State University"
+  },
+  {
+    "ID": 273,
+    "School": "Prairie View A&M University"
+  },
+  {
+    "ID": 274,
+    "School": "Pratt Institute"
+  },
+  {
+    "ID": 275,
+    "School": "Presbyterian College"
+  },
+  {
+    "ID": 276,
+    "School": "Princeton University"
+  },
+  {
+    "ID": 277,
+    "School": "Principia College"
+  },
+  {
+    "ID": 278,
+    "School": "Providence College"
+  },
+  {
+    "ID": 279,
+    "School": "Purdue University"
+  },
+  {
+    "ID": 280,
+    "School": "Quinnipiac University"
+  },
+  {
+    "ID": 281,
+    "School": "Reed College"
+  },
+  {
+    "ID": 282,
+    "School": "Regent University"
+  },
+  {
+    "ID": 283,
+    "School": "Rensselaer Polytechnic Institute"
+  },
+  {
+    "ID": 284,
+    "School": "Rhode Island School of Design"
+  },
+  {
+    "ID": 285,
+    "School": "Rhodes College"
+  },
+  {
+    "ID": 286,
+    "School": "Rice University"
+  },
+  {
+    "ID": 287,
+    "School": "Ripon College"
+  },
+  {
+    "ID": 288,
+    "School": "Robert Morris University"
+  },
+  {
+    "ID": 289,
+    "School": "Rochester Institute of Technology"
+  },
+  {
+    "ID": 290,
+    "School": "Rocky Mountain College"
+  },
+  {
+    "ID": 291,
+    "School": "Rollins College"
+  },
+  {
+    "ID": 292,
+    "School": "Rose-Hulman Institute of Technology"
+  },
+  {
+    "ID": 293,
+    "School": "Rutgers University - New Brunswick"
+  },
+  {
+    "ID": 294,
+    "School": "Rutgers University - Newark"
+  },
+  {
+    "ID": 295,
+    "School": "SUNY - Binghamton University"
+  },
+  {
+    "ID": 296,
+    "School": "SUNY - College of Environmental Science and Forestry"
+  },
+  {
+    "ID": 297,
+    "School": "SUNY - Geneseo"
+  },
+  {
+    "ID": 298,
+    "School": "SUNY - Polytechnic Institute"
+  },
+  {
+    "ID": 299,
+    "School": "SUNY - Stony Brook University"
+  },
+  {
+    "ID": 300,
+    "School": "SUNY - University at Albany"
+  },
+  {
+    "ID": 301,
+    "School": "SUNY - University at Buffalo"
+  },
+  {
+    "ID": 302,
+    "School": "Saint Louis University"
+  },
+  {
+    "ID": 303,
+    "School": "Sam Houston State University"
+  },
+  {
+    "ID": 304,
+    "School": "Samford University"
+  },
+  {
+    "ID": 305,
+    "School": "San Diego State University"
+  },
+  {
+    "ID": 306,
+    "School": "San Francisco State University"
+  },
+  {
+    "ID": 307,
+    "School": "San Jose State University"
+  },
+  {
+    "ID": 308,
+    "School": "Santa Clara University"
+  },
+  {
+    "ID": 309,
+    "School": "Sarah Lawrence College"
+  },
+  {
+    "ID": 310,
+    "School": "Savannah College of Art and Design"
+  },
+  {
+    "ID": 311,
+    "School": "School of the Art Institute of Chicago"
+  },
+  {
+    "ID": 312,
+    "School": "Scripps College"
+  },
+  {
+    "ID": 313,
+    "School": "Seattle Pacific University"
+  },
+  {
+    "ID": 314,
+    "School": "Seattle University"
+  },
+  {
+    "ID": 315,
+    "School": "Seton Hall University"
+  },
+  {
+    "ID": 316,
+    "School": "Sewanee: The University of the South"
+  },
+  {
+    "ID": 317,
+    "School": "Shenandoah University"
+  },
+  {
+    "ID": 318,
+    "School": "Simmons College"
+  },
+  {
+    "ID": 319,
+    "School": "Skidmore College"
+  },
+  {
+    "ID": 320,
+    "School": "Smith College"
+  },
+  {
+    "ID": 321,
+    "School": "Soka University of America"
+  },
+  {
+    "ID": 322,
+    "School": "South Dakota State University"
+  },
+  {
+    "ID": 323,
+    "School": "Southern Illinois University - Carbondale"
+  },
+  {
+    "ID": 324,
+    "School": "Southern Methodist University"
+  },
+  {
+    "ID": 325,
+    "School": "Southwestern University"
+  },
+  {
+    "ID": 326,
+    "School": "Spalding University"
+  },
+  {
+    "ID": 327,
+    "School": "Spelman College"
+  },
+  {
+    "ID": 328,
+    "School": "St. Anselm College"
+  },
+  {
+    "ID": 329,
+    "School": "St. Francis College"
+  },
+  {
+    "ID": 330,
+    "School": "St. John Fisher College"
+  },
+  {
+    "ID": 331,
+    "School": "St. John's College - Annapolis"
+  },
+  {
+    "ID": 332,
+    "School": "St. John's College - Santa Fe"
+  },
+  {
+    "ID": 333,
+    "School": "St. John's University"
+  },
+  {
+    "ID": 334,
+    "School": "St. Joseph's University"
+  },
+  {
+    "ID": 335,
+    "School": "St. Lawrence University"
+  },
+  {
+    "ID": 336,
+    "School": "St. Mary's College"
+  },
+  {
+    "ID": 337,
+    "School": "St. Mary's College of California"
+  },
+  {
+    "ID": 338,
+    "School": "St. Mary's College of Maryland"
+  },
+  {
+    "ID": 339,
+    "School": "St. Michael's College"
+  },
+  {
+    "ID": 340,
+    "School": "St. Olaf College"
+  },
+  {
+    "ID": 341,
+    "School": "Stanford University"
+  },
+  {
+    "ID": 342,
+    "School": "Stetson University"
+  },
+  {
+    "ID": 343,
+    "School": "Stevens Institute of Technology"
+  },
+  {
+    "ID": 344,
+    "School": "Stonehill College"
+  },
+  {
+    "ID": 345,
+    "School": "Suffolk University"
+  },
+  {
+    "ID": 346,
+    "School": "Swarthmore College"
+  },
+  {
+    "ID": 347,
+    "School": "Syracuse University"
+  },
+  {
+    "ID": 348,
+    "School": "Taylor University"
+  },
+  {
+    "ID": 349,
+    "School": "Temple University"
+  },
+  {
+    "ID": 350,
+    "School": "Tennessee State University"
+  },
+  {
+    "ID": 351,
+    "School": "Tennessee Technological University"
+  },
+  {
+    "ID": 352,
+    "School": "Texas A&M University - College Station"
+  },
+  {
+    "ID": 353,
+    "School": "Texas A&M University - Commerce"
+  },
+  {
+    "ID": 354,
+    "School": "Texas A&M University - Corpus Christi"
+  },
+  {
+    "ID": 355,
+    "School": "Texas A&M University - Kingsville"
+  },
+  {
+    "ID": 356,
+    "School": "Texas Christian University"
+  },
+  {
+    "ID": 357,
+    "School": "Texas Lutheran University"
+  },
+  {
+    "ID": 358,
+    "School": "Texas Southern University"
+  },
+  {
+    "ID": 359,
+    "School": "Texas State University"
+  },
+  {
+    "ID": 360,
+    "School": "Texas Tech University"
+  },
+  {
+    "ID": 361,
+    "School": "Texas Woman's University"
+  },
+  {
+    "ID": 362,
+    "School": "The Citadel"
+  },
+  {
+    "ID": 363,
+    "School": "Thomas Aquinas College"
+  },
+  {
+    "ID": 364,
+    "School": "Tougaloo College"
+  },
+  {
+    "ID": 365,
+    "School": "Transylvania University"
+  },
+  {
+    "ID": 366,
+    "School": "Trevecca Nazarene University"
+  },
+  {
+    "ID": 367,
+    "School": "Trinity College"
+  },
+  {
+    "ID": 368,
+    "School": "Trinity International University"
+  },
+  {
+    "ID": 369,
+    "School": "Trinity University"
+  },
+  {
+    "ID": 370,
+    "School": "Truman State University"
+  },
+  {
+    "ID": 371,
+    "School": "Tufts University"
+  },
+  {
+    "ID": 372,
+    "School": "Tulane University"
+  },
+  {
+    "ID": 373,
+    "School": "Tuskegee University"
+  },
+  {
+    "ID": 374,
+    "School": "Union College"
+  },
+  {
+    "ID": 375,
+    "School": "Union University"
+  },
+  {
+    "ID": 376,
+    "School": "United States Air Force Academy"
+  },
+  {
+    "ID": 377,
+    "School": "United States Coast Guard Academy"
+  },
+  {
+    "ID": 378,
+    "School": "United States Merchant Marine Academy"
+  },
+  {
+    "ID": 379,
+    "School": "United States Military Academy"
+  },
+  {
+    "ID": 380,
+    "School": "United States Naval Academy"
+  },
+  {
+    "ID": 381,
+    "School": "University of Akron"
+  },
+  {
+    "ID": 382,
+    "School": "University of Alabama"
+  },
+  {
+    "ID": 383,
+    "School": "University of Alabama - Birmingham"
+  },
+  {
+    "ID": 384,
+    "School": "University of Alabama - Huntsville"
+  },
+  {
+    "ID": 385,
+    "School": "University of Alaska - Fairbanks"
+  },
+  {
+    "ID": 386,
+    "School": "University of Arizona"
+  },
+  {
+    "ID": 387,
+    "School": "University of Arkansas"
+  },
+  {
+    "ID": 388,
+    "School": "University of Arkansas - Little Rock"
+  },
+  {
+    "ID": 389,
+    "School": "University of California - Berkeley"
+  },
+  {
+    "ID": 390,
+    "School": "University of California - Davis"
+  },
+  {
+    "ID": 391,
+    "School": "University of California - Irvine"
+  },
+  {
+    "ID": 392,
+    "School": "University of California - Los Angeles"
+  },
+  {
+    "ID": 393,
+    "School": "University of California - Merced"
+  },
+  {
+    "ID": 394,
+    "School": "University of California - Riverside"
+  },
+  {
+    "ID": 395,
+    "School": "University of California - San Diego"
+  },
+  {
+    "ID": 396,
+    "School": "University of California - Santa Barbara"
+  },
+  {
+    "ID": 397,
+    "School": "University of California - Santa Cruz"
+  },
+  {
+    "ID": 398,
+    "School": "University of Central Florida"
+  },
+  {
+    "ID": 399,
+    "School": "University of Chicago"
+  },
+  {
+    "ID": 400,
+    "School": "University of Cincinnati"
+  },
+  {
+    "ID": 401,
+    "School": "University of Colorado - Boulder"
+  },
+  {
+    "ID": 402,
+    "School": "University of Colorado - Denver"
+  },
+  {
+    "ID": 403,
+    "School": "University of Connecticut"
+  },
+  {
+    "ID": 404,
+    "School": "University of Dayton"
+  },
+  {
+    "ID": 405,
+    "School": "University of Delaware"
+  },
+  {
+    "ID": 406,
+    "School": "University of Denver"
+  },
+  {
+    "ID": 407,
+    "School": "University of Evansville"
+  },
+  {
+    "ID": 408,
+    "School": "University of Florida"
+  },
+  {
+    "ID": 409,
+    "School": "University of Georgia"
+  },
+  {
+    "ID": 410,
+    "School": "University of Hartford"
+  },
+  {
+    "ID": 411,
+    "School": "University of Hawaii - Manoa"
+  },
+  {
+    "ID": 412,
+    "School": "University of Houston"
+  },
+  {
+    "ID": 413,
+    "School": "University of Idaho"
+  },
+  {
+    "ID": 414,
+    "School": "University of Illinois - Chicago"
+  },
+  {
+    "ID": 415,
+    "School": "University of Illinois - Urbana-Champaign"
+  },
+  {
+    "ID": 416,
+    "School": "University of Iowa"
+  },
+  {
+    "ID": 417,
+    "School": "University of Kansas"
+  },
+  {
+    "ID": 418,
+    "School": "University of Kentucky"
+  },
+  {
+    "ID": 419,
+    "School": "University of La Verne"
+  },
+  {
+    "ID": 420,
+    "School": "University of Louisiana - Lafayette"
+  },
+  {
+    "ID": 421,
+    "School": "University of Louisiana - Monroe"
+  },
+  {
+    "ID": 422,
+    "School": "University of Louisville"
+  },
+  {
+    "ID": 423,
+    "School": "University of Maine"
+  },
+  {
+    "ID": 424,
+    "School": "University of Maine - Farmington"
+  },
+  {
+    "ID": 425,
+    "School": "University of Maryland - Baltimore County"
+  },
+  {
+    "ID": 426,
+    "School": "University of Maryland - College Park"
+  },
+  {
+    "ID": 427,
+    "School": "University of Maryland - Eastern Shore"
+  },
+  {
+    "ID": 428,
+    "School": "University of Massachusetts - Amherst"
+  },
+  {
+    "ID": 429,
+    "School": "University of Massachusetts - Boston"
+  },
+  {
+    "ID": 430,
+    "School": "University of Massachusetts - Dartmouth"
+  },
+  {
+    "ID": 431,
+    "School": "University of Massachusetts - Lowell"
+  },
+  {
+    "ID": 432,
+    "School": "University of Memphis"
+  },
+  {
+    "ID": 433,
+    "School": "University of Miami"
+  },
+  {
+    "ID": 434,
+    "School": "University of Michigan - Ann Arbor"
+  },
+  {
+    "ID": 435,
+    "School": "University of Minnesota - Twin Cities"
+  },
+  {
+    "ID": 436,
+    "School": "University of Mississippi"
+  },
+  {
+    "ID": 437,
+    "School": "University of Missouri"
+  },
+  {
+    "ID": 438,
+    "School": "University of Missouri - Kansas City"
+  },
+  {
+    "ID": 439,
+    "School": "University of Missouri - St. Louis"
+  },
+  {
+    "ID": 440,
+    "School": "University of Mobile"
+  },
+  {
+    "ID": 441,
+    "School": "University of Montana"
+  },
+  {
+    "ID": 442,
+    "School": "University of Montana - Western"
+  },
+  {
+    "ID": 443,
+    "School": "University of Mount Union"
+  },
+  {
+    "ID": 444,
+    "School": "University of Nebraska - Lincoln"
+  },
+  {
+    "ID": 445,
+    "School": "University of Nebraska - Omaha"
+  },
+  {
+    "ID": 446,
+    "School": "University of Nevada - Las Vegas"
+  },
+  {
+    "ID": 447,
+    "School": "University of Nevada - Reno"
+  },
+  {
+    "ID": 448,
+    "School": "University of New Hampshire"
+  },
+  {
+    "ID": 449,
+    "School": "University of New Mexico"
+  },
+  {
+    "ID": 450,
+    "School": "University of New Orleans"
+  },
+  {
+    "ID": 451,
+    "School": "University of North Carolina - Chapel Hill"
+  },
+  {
+    "ID": 452,
+    "School": "University of North Carolina - Charlotte"
+  },
+  {
+    "ID": 453,
+    "School": "University of North Carolina - Greensboro"
+  },
+  {
+    "ID": 454,
+    "School": "University of North Dakota"
+  },
+  {
+    "ID": 455,
+    "School": "University of North Texas"
+  },
+  {
+    "ID": 456,
+    "School": "University of Northern Colorado"
+  },
+  {
+    "ID": 457,
+    "School": "University of Notre Dame"
+  },
+  {
+    "ID": 458,
+    "School": "University of Oklahoma"
+  },
+  {
+    "ID": 459,
+    "School": "University of Oregon"
+  },
+  {
+    "ID": 460,
+    "School": "University of Pennsylvania"
+  },
+  {
+    "ID": 461,
+    "School": "University of Pittsburgh"
+  },
+  {
+    "ID": 462,
+    "School": "University of Portland"
+  },
+  {
+    "ID": 463,
+    "School": "University of Puget Sound"
+  },
+  {
+    "ID": 464,
+    "School": "University of Rhode Island"
+  },
+  {
+    "ID": 465,
+    "School": "University of Richmond"
+  },
+  {
+    "ID": 466,
+    "School": "University of Rochester"
+  },
+  {
+    "ID": 467,
+    "School": "University of San Diego"
+  },
+  {
+    "ID": 468,
+    "School": "University of San Francisco"
+  },
+  {
+    "ID": 469,
+    "School": "University of Scranton"
+  },
+  {
+    "ID": 470,
+    "School": "University of South Alabama"
+  },
+  {
+    "ID": 471,
+    "School": "University of South Carolina"
+  },
+  {
+    "ID": 472,
+    "School": "University of South Carolina - Aiken"
+  },
+  {
+    "ID": 473,
+    "School": "University of South Carolina - Upstate"
+  },
+  {
+    "ID": 474,
+    "School": "University of South Dakota"
+  },
+  {
+    "ID": 475,
+    "School": "University of South Florida"
+  },
+  {
+    "ID": 476,
+    "School": "University of Southern California"
+  },
+  {
+    "ID": 477,
+    "School": "University of Southern Mississippi"
+  },
+  {
+    "ID": 478,
+    "School": "University of St. Thomas"
+  },
+  {
+    "ID": 479,
+    "School": "University of Tennessee"
+  },
+  {
+    "ID": 480,
+    "School": "University of Texas - Arlington"
+  },
+  {
+    "ID": 481,
+    "School": "University of Texas - Austin"
+  },
+  {
+    "ID": 482,
+    "School": "University of Texas - Dallas"
+  },
+  {
+    "ID": 483,
+    "School": "University of Texas - El Paso"
+  },
+  {
+    "ID": 484,
+    "School": "University of Texas - San Antonio"
+  },
+  {
+    "ID": 485,
+    "School": "University of Toledo"
+  },
+  {
+    "ID": 486,
+    "School": "University of Tulsa"
+  },
+  {
+    "ID": 487,
+    "School": "University of Utah"
+  },
+  {
+    "ID": 488,
+    "School": "University of Vermont"
+  },
+  {
+    "ID": 489,
+    "School": "University of Virginia"
+  },
+  {
+    "ID": 490,
+    "School": "University of Washington"
+  },
+  {
+    "ID": 491,
+    "School": "University of West Florida"
+  },
+  {
+    "ID": 492,
+    "School": "University of West Georgia"
+  },
+  {
+    "ID": 493,
+    "School": "University of Wisconsin - Madison"
+  },
+  {
+    "ID": 494,
+    "School": "University of Wisconsin - Milwaukee"
+  },
+  {
+    "ID": 495,
+    "School": "University of Wyoming"
+  },
+  {
+    "ID": 496,
+    "School": "University of the Cumberlands"
+  },
+  {
+    "ID": 497,
+    "School": "University of the Ozarks"
+  },
+  {
+    "ID": 498,
+    "School": "University of the Pacific"
+  },
+  {
+    "ID": 499,
+    "School": "Ursinus College"
+  },
+  {
+    "ID": 500,
+    "School": "Utah State University"
+  },
+  {
+    "ID": 501,
+    "School": "Valdosta State University"
+  },
+  {
+    "ID": 502,
+    "School": "Valparaiso University"
+  },
+  {
+    "ID": 503,
+    "School": "Vanderbilt University"
+  },
+  {
+    "ID": 504,
+    "School": "Vassar College"
+  },
+  {
+    "ID": 505,
+    "School": "Vaughn College of Aeronautics and Technology"
+  },
+  {
+    "ID": 506,
+    "School": "Villanova University"
+  },
+  {
+    "ID": 507,
+    "School": "Virginia Commonwealth University"
+  },
+  {
+    "ID": 508,
+    "School": "Virginia Military Institute"
+  },
+  {
+    "ID": 509,
+    "School": "Virginia Tech"
+  },
+  {
+    "ID": 510,
+    "School": "Wabash College"
+  },
+  {
+    "ID": 511,
+    "School": "Wake Forest University"
+  },
+  {
+    "ID": 512,
+    "School": "Warner Pacific College"
+  },
+  {
+    "ID": 513,
+    "School": "Washington College"
+  },
+  {
+    "ID": 514,
+    "School": "Washington State University"
+  },
+  {
+    "ID": 515,
+    "School": "Washington University in St. Louis"
+  },
+  {
+    "ID": 516,
+    "School": "Washington and Jefferson College"
+  },
+  {
+    "ID": 517,
+    "School": "Washington and Lee University"
+  },
+  {
+    "ID": 518,
+    "School": "Wayne State University"
+  },
+  {
+    "ID": 519,
+    "School": "Wellesley College"
+  },
+  {
+    "ID": 520,
+    "School": "Wesleyan University"
+  },
+  {
+    "ID": 521,
+    "School": "West Virginia University"
+  },
+  {
+    "ID": 522,
+    "School": "Western Michigan University"
+  },
+  {
+    "ID": 523,
+    "School": "Westminster College"
+  },
+  {
+    "ID": 524,
+    "School": "Westmont College"
+  },
+  {
+    "ID": 525,
+    "School": "Wheaton College"
+  },
+  {
+    "ID": 526,
+    "School": "Whitman College"
+  },
+  {
+    "ID": 527,
+    "School": "Whitworth University"
+  },
+  {
+    "ID": 528,
+    "School": "Wichita State University"
+  },
+  {
+    "ID": 529,
+    "School": "Widener University"
+  },
+  {
+    "ID": 530,
+    "School": "Willamette University"
+  },
+  {
+    "ID": 531,
+    "School": "Williams College"
+  },
+  {
+    "ID": 532,
+    "School": "Wilmington University"
+  },
+  {
+    "ID": 533,
+    "School": "Wofford College"
+  },
+  {
+    "ID": 534,
+    "School": "Worcester Polytechnic Institute"
+  },
+  {
+    "ID": 535,
+    "School": "Wright State University"
+  },
+  {
+    "ID": 536,
+    "School": "Xavier University"
+  },
+  {
+    "ID": 537,
+    "School": "Xavier University of Louisiana"
+  },
+  {
+    "ID": 538,
+    "School": "Yale University"
+  },
+  {
+    "ID": 539,
+    "School": "Yeshiva University"
+  }
+]
