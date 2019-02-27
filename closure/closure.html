@@ -1,6 +1,6 @@
 <!-- What is wrong with this javascript? -->
 
-<button id="btn-0">Button 1</button>
+<!-- <button id="btn-0">Button 1</button>
 <button id="btn-1">Button 2</button>
 <button id="btn-2">Button 3</button>
 
@@ -15,7 +15,7 @@
       alert(prizes[btnNum]);
     };
   }
-</script>
+</script> -->
 
 
 <!-- Solution -->
@@ -38,6 +38,38 @@
       };
     })(btnNum); // LOOK! We're passing btnNum to our anonymous function here!
   }
+
+
+  // const arr = [0,1,0,1,2,2,5,5];
+
+  // function getdups(arr) {
+  //   const NumMap = {};
+  //   let dups = [];
+
+  //   for (let elem of arr) {
+  //     if (NumMap[elem]) {
+  //       NumMap[elem]++;
+  //     } else {
+  //       NumMap[elem] = 1;
+  //     }
+  //   }
+
+  //   console.log(NumMap);
+
+  //   for (let val in NumMap) {
+  //     if (NumMap[val] > 1) {
+  //       // console.log(val);
+
+  //       dups.push(val);
+  //     }
+  //   }
+  //   // console.log(dups);
+  //   return dups;
+    
+  // }
+
+  // getdups(arr);
+
 </script>
 
 
