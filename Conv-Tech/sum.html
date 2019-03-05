@@ -1,0 +1,28 @@
+<body>
+	<h1>Answer</h1>
+	<p id="answer"></p>
+</body>
+
+<script type="text/javascript">
+
+	function sumIfNotEqual( a, b, c){
+		let sum = 0;
+		if(a != b && a!=c) {
+			sum+=a
+		}
+		if(b != a && b!=c){
+			sum += b
+		}
+		if(c !=a && c != b){
+			sum+=c
+		}
+		console.log(sum);
+		return sum;
+	}
+
+	let sum = sumIfNotEqual(1,2,1);
+
+	console.log(sum);
+
+	document.getElementById('answer').innerHTML = sum;
+</script>
